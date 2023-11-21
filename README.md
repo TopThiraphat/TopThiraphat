@@ -137,4 +137,7 @@ const top = {
 ## 📫 Social
 [![Blog](https://img.shields.io/website?color=B71D25&style=flat-square&up_message=Linkbio&url=https%3A%2F%2Fmikkipastel.com)](https://linkbio.co/5112007obaf6V)
 
+## ☕️ Support Me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R0RDJVK)
+
  NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
