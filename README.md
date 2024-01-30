@@ -45,9 +45,9 @@ const top = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TopThiraphat&layout=compact)
 
-## 🗂️ Highlight Projects
+<!-- ## 🗂️ Highlight Projects -->
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats) -->
 
 ## 💻 My Tech Stack
 
