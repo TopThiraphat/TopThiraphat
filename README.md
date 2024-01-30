@@ -37,7 +37,7 @@ const top = {
 
 ```
 
-## 📈 Github Stat
+## 📈 GitHub Stats
 
 ![Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TopThiraphat)
 
