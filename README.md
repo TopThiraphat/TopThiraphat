@@ -2,13 +2,13 @@
 
 ![Banner](/images/github_banner.png)
 
-<p><em>Junior Engineer at <a href="https://www.tkc-services.com/">Turnkey Communication Services
+<p><em>Technical Support at <a href="https://www.tkc-services.com/">Turnkey Communication Services
 </em></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/TopThiraphat?label=Follow&style=social)](https://github.com/TopThiraphat)
 [![Visits Badge](https://badges.pufler.dev/visits/TopThiraphat/badge-it)](https://github.com/TopThiraphat)
 
-const hello = " I am a full-time Website Developer. I have started Web Development since the internship and develop some applications When I have free time from work my goals is to become an expert in my field and improve and develop yourself to share knowledge in my blog. " 
+const hello = " I have started Web Development since the internship and develop some applications When I have free time from work my goals is to become an expert in my field and improve and develop yourself to share knowledge in my blog. "
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%20You%20don't%20have%20to%20be%20better%20than%20anyone%20else.%20But%20be%20better%20than%20yourself%20were%20in%20yesterday%20.%20)
 
@@ -19,20 +19,20 @@ const top = {
     pronouns: "He",
     userName: "Thiraphat",
     surName: "Surapa",
-    position: "Junior Engineer",
+    position: "Technical Support",
     technologies: {
-        frontEnd: ['HTML', 'CSS', 'JavaScript', 'ReactJS'],
-        backEnd: ["NodeJS","Golang"],
+        frontEnd: ["HTML", "CSS", "JavaScript", "ReactJS"],
+        backEnd: ["NodeJS", "Golang"],
         library: {
-            javascript: ["Express"],
+            javascript: ["Express", "Fastify"],
             golang: ["Fiber"]
         },
-        devOps: ["Docker Swarm","Kubernetes","Linux"],
-        databases: ["SQLite","Nginx"],
-        tools: ["GitHub"],
-        misc: ["Firebase"]
+        devOps: ["Docker", "Docker Swarm"],
+        os:["Ubuntu", "MacOS", "Windows"],
+        databases: ["SQLite", "PostgreSQL"],
+        webServer: ["Nginx"],
+        tools: ["GitHub", "Prisma"],
     },
-    architecture: ["SPA","Serverless"],
 };
 
 ```
@@ -56,7 +56,6 @@ const top = {
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -70,9 +69,7 @@ const top = {
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 #### Backend Development
 
@@ -80,26 +77,20 @@ const top = {
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### Backend as a Service(BaaS)
-
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 #### Framework / Library
 
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
 ![Fontawesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![ReduxSaga](https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### Data Visualization
 
@@ -108,13 +99,15 @@ const top = {
 
 #### Devops
 
-![Giblab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-#### Database
+
+#### Database / ORM
 
 ![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 #### Editor / IDE
 
@@ -129,10 +122,6 @@ const top = {
 #### Other
 ![Maskdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📫 Social
 [![Blog](https://img.shields.io/website?color=B71D25&style=flat-square&up_message=Linkbio&url=https%3A%2F%2Fmikkipastel.com)](https://linkbio.co/5112007obaf6V)
@@ -140,4 +129,4 @@ const top = {
 ## ☕️ Support Me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R0RDJVK)
 
- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
