@@ -2,13 +2,13 @@
 
 ![Banner](/images/github_banner.png)
 
-<p><em>Technical Support at <a href="https://www.tkc-services.com/">Turnkey Communication Services
+<p><em>Full stack developer at <a href="https://www.tkc-services.com/">Turnkey Communication Services
 </em></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/TopThiraphat?label=Follow&style=social)](https://github.com/TopThiraphat)
 [![Visits Badge](https://badges.pufler.dev/visits/TopThiraphat/badge-it)](https://github.com/TopThiraphat)
 
-const hello = " I have started Web Development since the internship and develop some applications When I have free time from work my goals is to become an expert in my field and improve and develop yourself to share knowledge in my blog. "
+const hello = " I have started Web Development since the internship and develop some applications When I have free time from work my goals is to become an expert in my field and improve and develop yourself to share knowledge in my blog. " ;
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%20You%20don't%20have%20to%20be%20better%20than%20anyone%20else.%20But%20be%20better%20than%20yourself%20were%20in%20yesterday%20.%20)
 
@@ -19,7 +19,8 @@ const top = {
     pronouns: "He",
     userName: "Thiraphat",
     surName: "Surapa",
-    position: "Technical Support",
+    nickName: "Top",
+    position: "Full stack developer",
     technologies: {
         frontEnd: ["HTML", "CSS", "JavaScript", "ReactJS"],
         backEnd: ["NodeJS", "Golang"],
