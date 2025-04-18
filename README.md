@@ -2,7 +2,7 @@
 
 ![Banner](/images/github_banner.png)
 
-<p><em>Full stack developer at <a href="https://www.tkc-services.com/">Turnkey Communication Services
+<p><em>Backend Developer at <a href="https://www.tkc-services.com/">Turnkey Communication Services
 </em></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/TopThiraphat?label=Follow&style=social)](https://github.com/TopThiraphat)
@@ -12,30 +12,28 @@ const hello = " I have started Web Development since the internship and develop 
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%20You%20don't%20have%20to%20be%20better%20than%20anyone%20else.%20But%20be%20better%20than%20yourself%20were%20in%20yesterday%20.%20)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&random=false&width=435&lines=console.log("%20about+me+...%20"))
+![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&random=false&width=435&lines=console.log("%20about+me+...%20")>)
 
 ```javascript
 const top = {
-    pronouns: "He",
-    userName: "Thiraphat",
-    surName: "Surapa",
-    nickName: "Top",
-    position: "Full stack developer",
+  pronouns: "He",
+  userName: "Thiraphat",
+  surName: "Surapa",
+  nickName: "Top",
+  position: "Backend Developer",
+  mainlyUsed: {
     technologies: {
-        frontEnd: ["HTML", "CSS", "JavaScript", "ReactJS"],
-        backEnd: ["NodeJS", "Golang"],
-        library: {
-            javascript: ["Express", "Fastify"],
-            golang: ["Fiber"]
-        },
-        devOps: ["Docker", "Docker Swarm"],
-        os:["Ubuntu", "MacOS", "Windows"],
-        databases: ["SQLite", "PostgreSQL"],
-        webServer: ["Nginx"],
-        tools: ["GitHub", "Prisma"],
+      backend: ["NestJS"],
+      orm: ["typeORM"],
+      webApplicationFramework: ["Express"],
+      devOps: ["Docker", "Docker Swarm", "Jenkins", "Helm", "GitLab Runner"],
+      os: ["Ubuntu", "MacOS", "Windows"],
+      databases: ["PostgreSQL", "Mongo"],
+      webServer: ["Nginx"],
+      processManager: ["PM2"],
     },
+  },
 };
-
 ```
 
 ## 📈 GitHub Stats
@@ -65,28 +63,17 @@ const top = {
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Graphql](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### Frontend Development
+#### Framework / Library / Web Server
 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
-#### Backend Development
-
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-
-#### Framework / Library
-
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
-![Fontawesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![ReduxSaga](https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
@@ -102,13 +89,21 @@ const top = {
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 #### Database / ORM
 
 ![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+
+#### Cloud Storage
+
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 
 #### Editor / IDE
 
@@ -117,17 +112,30 @@ const top = {
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![Googlecolab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-#### Software
+#### Frontend / Design
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+#### Artificial Intelligence and Bots
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 #### Other
+
 ![Maskdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ## 📫 Social
+
 [![Blog](https://img.shields.io/website?color=B71D25&style=flat-square&up_message=Linkbio&url=https%3A%2F%2Fmikkipastel.com)](https://linkbio.co/5112007obaf6V)
 
 ## ☕️ Support Me
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R0RDJVK)
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
